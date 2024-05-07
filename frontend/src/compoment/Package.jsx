@@ -10,77 +10,77 @@ function Package() {
 
    const data = [
     {
-      image: "./image/tej",
+      image: "./image/taj.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/limestone-rock.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/lotus.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/bali.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/maldive.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/taj.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/bali.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/lotus.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/limestone-rock.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/taj.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/lotus.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/bali.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/limestone-rock.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/maldive.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },
     {
-      image: "./image/tej",
+      image: "./image/limestone-rock.png",
       heading: "adventure & tour",
       para: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque",
     },

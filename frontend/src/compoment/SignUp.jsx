@@ -27,9 +27,11 @@ const navigate = useNavigate();
  
       console.log(response.data);
       navigate('/login');
+      
      
     } catch (error) {
       console.error('Signup error:', error);
+      
     }
   };
 

@@ -137,7 +137,7 @@ function About() {
   return (
     <div>
       <div className="aboutImg1">
-        <img src="image/footer-bg.jpg" alt="" />
+        {/* <img src="image/div.png" alt="" /> */}
       </div>
 
       <section className="about">

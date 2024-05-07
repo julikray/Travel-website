@@ -114,7 +114,7 @@ function Home() {
         <div class="box-container">
           <div class="box">
             <div class="image">
-              <img src="./image/tej" alt="" />
+              <img src="./image/taj.png" alt="" />
             </div>
             <div class="content">
               <h3>adventure & tour</h3>
@@ -130,7 +130,7 @@ function Home() {
 
           <div class="box">
             <div class="image">
-              <img src="./image/tej" alt="" />
+              <img src="./image/lotus.png" alt="" />
             </div>
 
             <div class="content">
@@ -147,7 +147,7 @@ function Home() {
 
           <div class="box">
             <div class="image">
-              <img src="./image/tej" alt="" />
+              <img src="./image/bali.png" alt="" />
             </div>
             <div class="content">
               <h3>adventure & tour</h3>

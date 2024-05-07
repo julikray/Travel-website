@@ -5,6 +5,14 @@
   padding-bottom: 4rem;
 }
 
+.aboutImg1 {
+  background-image: url('/public/image/div.png') ;
+
+ 
+}
+
+
+
 .about1-img {
   width: 40vw;
   height: auto;

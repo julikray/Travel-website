@@ -11,6 +11,8 @@ const Login = () => {
     password: "",
   });
 
+  const [error, setError] = useState("");
+
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
@@ -26,6 +28,8 @@ const Login = () => {
       navigate("/");
     } catch (error) {
       console.error("Login error:", error);
+      
+      setError("Please provide valid credentials.");
     }
   };
 
@@ -52,7 +56,8 @@ const Login = () => {
               onChange={handleChange}
             />
           </div>
-          <button className='btnSign'  type="submit">Login</button>
+          {error && <div className="error">{error}</div>}
+          <button className="btnSign" type="submit">Login</button>
         </form>
       </div>
     </div>
